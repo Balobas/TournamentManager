@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc80692a-959a-4c11-aa26-429c17c5048b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Vfm5qootz67KmqpbXDZxR4KKa8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\server\OSPanel\domains\Champ\controller" />
+      <recent name="C:\Users\User\server\OSPanel\domains\Champ\viewlayer" />
+      <recent name="C:\Users\User\server\OSPanel\domains\Champ\databaselayer" />
+      <recent name="C:\Users\User\server\OSPanel\domains\Champ\style" />
+      <recent name="C:\Users\User\server\OSPanel\domains\Champ\DataStructureLayer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DBMTest" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/database/DBMTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="DBTest" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/database/DBTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="TournamentManagerTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/datastructure/TournamentManagerTest.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.096994534" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc80692a-959a-4c11-aa26-429c17c5048b" name="Default Changelist" comment="" />
+      <created>1577652342673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577652342673</updated>
+      <workItem from="1577652344019" duration="1333000" />
+      <workItem from="1577701792642" duration="7301000" />
+      <workItem from="1577817897151" duration="16551000" />
+      <workItem from="1577893846412" duration="15409000" />
+      <workItem from="1578248953570" duration="14085000" />
+      <workItem from="1578312471229" duration="1473000" />
+      <workItem from="1578327637413" duration="12641000" />
+      <workItem from="1578402755354" duration="10861000" />
+      <workItem from="1578487044555" duration="400000" />
+      <workItem from="1578502150070" duration="1243000" />
+      <workItem from="1578585221905" duration="63780000" />
+      <workItem from="1578942973813" duration="11139000" />
+      <workItem from="1579006430051" duration="3781000" />
+      <workItem from="1579026983231" duration="13017000" />
+      <workItem from="1579088066124" duration="20827000" />
+      <workItem from="1579169999992" duration="1622000" />
+      <workItem from="1579192647461" duration="3960000" />
+      <workItem from="1579211475579" duration="29883000" />
+      <workItem from="1579374464899" duration="7235000" />
+      <workItem from="1579527253949" duration="1794000" />
+      <workItem from="1579529830550" duration="719000" />
+      <workItem from="1579531034367" duration="989000" />
+      <workItem from="1579534996358" duration="1792000" />
+      <workItem from="1579536826687" duration="1069000" />
+      <workItem from="1579545563199" duration="810000" />
+      <workItem from="1579547377728" duration="946000" />
+      <workItem from="1579549407880" duration="1793000" />
+      <workItem from="1579551229594" duration="764000" />
+      <workItem from="1579555287093" duration="1535000" />
+      <workItem from="1579603917101" duration="1535000" />
+      <workItem from="1579605741163" duration="1461000" />
+      <workItem from="1579608693756" duration="993000" />
+      <workItem from="1579610778558" duration="1029000" />
+      <workItem from="1579720742138" duration="1128000" />
+      <workItem from="1579723476690" duration="1485000" />
+      <workItem from="1579727054179" duration="947000" />
+      <workItem from="1579729037963" duration="1359000" />
+      <workItem from="1579768466800" duration="577000" />
+      <workItem from="1579891204118" duration="603000" />
+      <workItem from="1579894529018" duration="4000" />
+      <workItem from="1580327386773" duration="135000" />
+      <workItem from="1582973020170" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1593174153399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593174153399" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1593174159430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593174159430" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1593174120156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593174120156" />
+    <state x="209" y="34" key="new project wizard" timestamp="1593174273556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593174273556" />
+  </component>
+</project>
